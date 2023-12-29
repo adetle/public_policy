@@ -11,12 +11,12 @@ Hairsol app is committed to protecting your privacy. This Privacy Policy explain
 
 ### Information We Collect
 
-## We may collect the following information:
+### We may collect the following information:
 
 ### Personal Information:
-  Name
-  Email address
-  Phone number 
+  Name <br>
+  Email address <br>
+  Phone number <br>
   profile information
 
 ### Device Information:
