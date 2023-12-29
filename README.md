@@ -9,17 +9,17 @@ Effective Date: December 29, 2023
 ### Introduction  
 Hairsol app is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your information when you use our app.
 
-###Information We Collect
+### Information We Collect
 
 ##We may collect the following information:
 
-##Personal Information:
+### Personal Information:
   Name
   Email address
   Phone number 
   profile information
 
-###Device Information:
+### Device Information:
   Device type
   Operating system
   Unique device identifiers
